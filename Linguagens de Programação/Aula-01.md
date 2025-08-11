@@ -216,6 +216,3 @@ src/
 
 ---
 
-**🎉 Parabéns pelo progresso! Você está no caminho certo para se tornar um desenvolvedor Java!**
-
-*Última atualização: Aula 001 - Conceitos Básicos de Java*
